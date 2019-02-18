@@ -164,7 +164,7 @@ Python programming. First assignment. 1. Ramp up. 2. Augment an algorithm.
    11. Define a function and call it from inside a condition which is inside a loop. Do you get a taste of the power of programming?
 
    
-## II. Bubble sort
+## II. Sorting algorithms
 
 1. Understand the code. (Get used to have the [Python documentation](https://docs.python.org/3/index.html) open.)
 
