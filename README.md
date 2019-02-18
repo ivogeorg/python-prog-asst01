@@ -1,4 +1,4 @@
-# python-prog-asst01
+# First programming assignment in Python
 
 
 ## I. Python ramp up
