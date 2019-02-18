@@ -166,13 +166,13 @@ Python programming. First assignment. 1. Ramp up. 2. Augment an algorithm.
    
 ## II. Bubble sort
 
-1. Understand the code.
+1. Understand the code. (Get used to have the [Python documentation](https://docs.python.org/3/index.html) open.)
 
    Now you know enough basic Python to be dangerous. For example, you are well equipped to understand the code of `bubble_sort()`.
    
    1. List the functions used in the file **bubble_sort.py**.
    
-   2. Which functions are defined inside the file and which are defined elsewhere?
+   2. Which functions are defined inside the file and which are defined elsewhere? Some of these function are _built-in_. See a [list of all built-in functions](https://docs.python.org/3/library/functions.html) in Python.
    
    3. How many loops are there in the code? Are any of them _nested_?
    
