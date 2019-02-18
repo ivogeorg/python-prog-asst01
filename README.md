@@ -148,18 +148,18 @@ Python programming. First assignment. 1. Ramp up. 2. Augment an algorithm.
    
    10. The function above is more or less useless. The power of functions is that they are code blocks that can take input and give output. The input of a function is called **arguments** and they are declared between the parentheses after the function name. The output of the function (apart from any `print()` statements) is specified by a `return` statement. Here's an example of a slightly more useful function:
    
-      ```python
-      def add(a, b):
-          return a + b
-      ```
+       ```python
+       def add(a, b):
+           return a + b
+       ```
    
-      This function is simple and self-explanatory. It takes two arguments and returns their "sum". Notice that there is no type checking: the arguments can be two integers, two floats, two strings, two whatever, or can be two different whatevers :-P If the `+` operator happens to not be defined for the two argument types, the interpreter will throw an error. Experiment with this function by calling `add(4, 7)`, `add(5.6, 0.1)`, and `add("my", "oh, my")`. If you want to see the output of the function, call it from inside a `print` statement as follows:
+       This function is simple and self-explanatory. It takes two arguments and returns their "sum". Notice that there is no type checking: the arguments can be two integers, two floats, two strings, two whatever, or can be two different whatevers :-P If the `+` operator happens to not be defined for the two argument types, the interpreter will throw an error. Experiment with this function by calling `add(4, 7)`, `add(5.6, 0.1)`, and `add("my", "oh, my")`. If you want to see the output of the function, call it from inside a `print` statement as follows:
    
-      ```python
-      print(add(3, 9))
-      ```
+       ```python
+       print(add(3, 9))
+       ```
    
-      Notice the _"nested"_ function calls. They are performed and evaluated from **inside-out**. Define and call your own functions.
+       Notice the _"nested"_ function calls. They are performed and evaluated from **inside-out**. Define and call your own functions.
    
    11. Define a function and call it from inside a condition which is inside a loop. Do you get a taste of the power of programming?
 
