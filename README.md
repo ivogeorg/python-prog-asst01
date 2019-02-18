@@ -127,9 +127,44 @@ Python programming. First assignment. 1. Ramp up. 2. Augment an algorithm.
    
    h. Create and run a loop that breaks if one of the conditions in an `if` cascade is `True`.
    
-   i. Define a function... TODO
+   i. A **function** is a _named code block_. The code block is executed when the function is _called_. Here's a very simple example:
    
-   j. Run a function inside a loop... TODO
+   ```python
+   def my_function():
+       i = 8
+       if i > 0:
+           print("i is greater than zero")
+       elif i < 4:
+           print("i is between 0 and 4")
+       else:
+           print("i is greater than or equal to four")
+   ```
+   Run this code. Notice the following:
+   
+     - this is a _function definition_, which means defining the code block and its name
+     - a definition always starts with the keyword `def`
+     - notice the familiar colon (`:`) which indicates where the code block begins
+     - each code block is indented **4 spaces in** relative to the one that contains it, in this case the blocks of the `if` cascade relative to the funcion's code block
+     - the name of the function is `my_function`
+   
+   Write your own and experiment with it. Call the function by writing `my_function()` by itself on a line in a code block.
+   
+   j. The function above is more or less useless. The power of functions is that they are code blocks that can take input and give output. The input of a function is called **arguments** and they are declared between the parentheses after the function name. The output of the function (apart from any `print()` statements) is specified by a `return` statement. Here's an example of a slightly more useful function:
+   
+   ```python
+   def add(a, b):
+       return a + b
+   ```
+   
+   This function is simple and self-explanatory. It takes two arguments and returns their "sum". Notice that there is no type checking: the arguments can be two integers, two floats, two strings, two whatever, or can be two different whatevers :-P If the `+` operator happens to not be defined for the two argument types, the interpreter will throw an error. Experiment with this function by calling `add(4, 7)`, `add(5.6, 0.1)`, and `add("my", "oh, my")`. If you want to see the output of the function, call it from inside a `print` statement as follows:
+   
+   ```python
+   print(add(3, 9))
+   ```
+   
+   Notice the _"nested"_ function calls. They are performed and evaluated from **inside-out**. Define and call your own functions.
+   
+   k. Define a function and call it from inside a condition which is inside a loop. Do you get a taste of the power of programming?
 
    
 ## II. Bubble sort
