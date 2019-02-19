@@ -3,7 +3,7 @@
 
 ## I. Python ramp up
 
-1. Console play.
+1. Console play and experiment.
    
    Python is an _interpreted_ language. This means that it is read and executed line-by-line by the interpreter. More on the interpreter later. This enables Python to have an _interactive console_, where you can type a single-line expression at the console prompt and have it evaluated upon hitting **Enter/Return**.
    
