@@ -1,0 +1,22 @@
+i. Functions Used In The Bubble Sort File: print; range; if;
+
+ii. Print and Range are built in functions. For and in are defined inside the file.
+
+iii. Loops Used In The Bubble Sort File: for
+
+iv. There are 3 unique conditions used in the code. They are: n - i - 1; arr[j] >; arr[j + 1]. They are nested in the loops.
+
+v. The deepest nested code is three levels deep.
+
+vi. The arguments taken are print and range. Arguments are determined by the variables being used.
+
+vii. Bubble Sort is called with the def command.
+
+viii. I do not understand the question.
+
+ix.
+x.
+xi.
+
+
+
