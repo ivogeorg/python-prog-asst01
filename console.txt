@@ -1,0 +1,130 @@
+1+1
+i-2
+i=4
+i=1
+i+4
+Class = 'engineering'
+Class
+Class = 'Class'
+a=10
+b=100
+a+b
+C=a+b
+c
+c=
+C=
+c+b
+C=b
+c+b
+a > 2
+(a <=9)
+(a<=10)
+l = [Computers]
+l.append('aes dana')
+1.append('45')
+1.append(45)
+l.append(45)
+
+l.append(45)
+l.append(45)
+l.append(4)
+50
+
+
+1.appen
+l.clear
+l.count(123)
+l.count
+d=
+d = {0}
+d[0] = 'zero'
+d['mana'] = 'Mexican pop group')
+d['mana'] = 'Mexican pop group'
+d[1]
+type(d)
+type("abba")
+type(5)
+print('blah blah')
+Print('The Formula')
+print('The Formula')
+for i in range(10)
+    print(i)
+    l= [4,5,6]
+    for i in l
+        print(i)
+
+        i = *
+        i=8
+        while i > 0
+            print(i)
+
+while i > 0:
+    print(i)
+    i =i-1
+
+i =  8
+while True:
+    If i <=0:
+    break
+    i = i - 1
+
+while True
+    if i <=0:
+        break
+        i = i - 1
+
+i = 8
+while True:
+    if i <=0:
+        break
+        i = i - 1
+
+
+
+
+
+
+
+engineering =
+string = engineering
+string = "engineering"
+'engine + 'ering'
+c =
+c?
+c + 0
+c + B =
+c+b
+a = 10
+b = 100
+c = 1000
+d = 10000
+string = engineering
+string = 'engineering'
+a + b
+'engine' + 'ering'
+c = a + 10 + 10 + 8 * b
+'deadbeef' * 5
+a > 8
+a ^ b
+not (a <= 9)
+l = []
+l.append ('aes dana')
+l.append (45)
+l.append (23)
+l.append (21)
+l.append (8)
+l.reverse(12345)
+l.reverse(1)
+l.sort()
+l.reverse()
+d = {}
+d [0] = 'zero'
+d ['mana'] = 'Mexican pop group'
+d [0]
+d [1]
+d
+d.values()
+type (d)
+type(1)
+type ('abba')
+console.log
