@@ -2,3 +2,7 @@ a = 6
 b = {}
 b[a] = 6
 print(b)
+album = []
+album.append('sun001')
+album.append('waves002')
+print(album)
