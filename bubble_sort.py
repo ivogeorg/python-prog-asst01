@@ -1,6 +1,12 @@
 # Python program for implementation of Bubble Sort
 # Acknowledgement: GeeksforGeeks
 
+# Note: The matching array and function argument
+# names 'arr', as well as the same loop variable
+# names 'i' for loops in the global and function
+# scopes, are left in to demonstrate and explain
+# shadowing.
+
 
 def bubble_sort(arr):
     n = len(arr)
